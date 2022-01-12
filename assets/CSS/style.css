@@ -6,12 +6,13 @@
 #menu li{
     display: inline;
     padding: 30px;
+    align-items: center;
 }
 
 #menu li a{
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 #menu li a:hover{
@@ -23,7 +24,7 @@
 }
 
 .p-50{
-    border-radius: 20%;
+    border-radius: 50%;
 }
 
 
